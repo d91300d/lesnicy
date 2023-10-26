@@ -1,0 +1,108 @@
+<!DOCTYPE HTML>
+<html lang="pl">
+<head>
+	<meta charset="utf-8" /> 
+	<meta  content="zajebista stronka wiecie o co chodzi smierdzi tutaj essa"/>
+	<title>Smierdzipl</title>	
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link href='http://fonts.googleapis.com/css?family=Lato:400,900&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+	
+      
+    <style type="text/css">
+* {cursor: url(diamondsword.cur), default; }
+</style>
+
+</head>
+
+<body>
+<div id="logo">
+		Smierdzi.pl
+</div>
+
+<div id="nav">
+	<ol>
+	 <li><a href="#">Strona główna</a></li>
+	 <li><a href="smierdzi.pl/otworcy.html">O Twórcy i o stronie</a></li>
+	 <li><a href="https://discord.gg/GDtbyusZmC">Discord (działa!!!)</a></li>
+	 <li><a href="#">Gry</a>
+	    <ul>
+		<li><a href="trzewik/index.html">Psychologiczna gra o trzewikodziobie</a></li>
+	    </ul>
+	 </li>
+	</ol>
+	
+	<div style="clear:both;"></div>
+</div>	
+	<div id="container">	
+		<div id="topbar">
+			<div id="topbarL">
+				<img width="150" height="150" src="zdjecia/logonowexd.png" />
+			</div>
+			<div id="topbarR">
+				<span class="bigtitle">Jak strona powstawała i skąd pomysł</span>
+				<div style="height: 15px;"></div>
+				Jak powstała strona? To proste! Cała historia zaczęła się od lekcji zawodowych które pokazały nam jak tworzyć stronę na darmowym hostingu! Z tej inicjatywy postanowiłem zrobić własną stronę "Sprawdztopeel". Miłego pobytu na stronie!
+			</div>
+			<div style="clear:both;"></div>
+		</div>
+		
+		<div id="sidebar">
+		 <script type="text/javascript" src="https://www.shoutboxy.pl/shoutbox/start.php?key=545664818"></script>
+		</div>
+		
+		<div id="content">
+			<span class="bigtitle">Simerdzi.pl</span>
+			
+			<div class="dottedline"></div>
+			
+			Siema siema odświeżona stronka wiem że zajebiście jest 8) no i się męczę aby robić więcej elo elo pozdrawiam wszystkich			
+			<br>
+			<br>
+			<div id="zdjecie">
+			<img width="445" height="558" src="zdjecia/bartekkiedyvc.png">
+			<br>
+			<video width="150" height="150" controls>
+			  <source src="filmy/jumpscaremem.mp4" type="video/mp4">
+              <source src="filmy/jumpscaremem.mp4" type="video/ogg">
+			  </video>
+			<video width="150" height="150" controls>
+			  <source src="filmy/kotksmycie.mp4" type="video/mp4">
+              <source src="filmy/kotksmycie.mp4" type="video/ogg">
+			  </video>			  
+			  <br>
+			  <img width="212" height="290" src="zdjecia/astolfo1.png">
+			  <img width="212" height="290" src="zdjecia/astolfomembartek.png">
+			  <br>
+			<video width="450" height="350" controls>
+			  <source src="filmy/najbardziejchrupiacefrytki.mp4" type="video/mp4">
+              <source src="filmy/najbardziejchrupiacefrytki.mp4" type="video/ogg">
+			  </video>
+			<video width="300" height="300" controls>
+			  <source src="filmy/sznapi.mp4" type="video/mp4">
+              <source src="filmy/sznapi.mp4" type="video/ogg">
+			  </video>			
+			  <br>
+			<video width="400" height="300" controls>
+			  <source src="filmy/gimpsonmem.mp4" type="video/mp4">
+              <source src="filmy/gimpsonmem.mp4" type="video/ogg">
+			  </video>				  
+            <audio controls>
+              <source src="audio/bombsitea.mp3" type="audio/mpeg">
+              <source src="audio/bombsitea.mp3" type="audio/mpeg">
+              </audio>		
+			  <br>
+			<video width="200" height="200" controls>
+			  <source src="filmy/technozul.mp4" type="video/mp4">
+              <source src="filmy/technozul.mp4" type="video/ogg">
+			  </video>			  
+			</div>
+		</div>
+		
+		<div id="footer">
+			Sprawdztopeel serwis działający od 2022r. &copy; Wszelkie prawa zastrzeżone.
+		</div>
+	
+	</div>
+	
+</body>
+</html>

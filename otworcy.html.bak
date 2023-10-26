@@ -1,0 +1,44 @@
+<!DOCTYPE HTML>
+<html lang="pl">
+<head>
+	<meta charset="utf-8" /> 
+	<meta  content="zajebista stronka wiecie o co chodzi smierdzi tutaj essa"/>
+	<title>Smierdzipl</title>	
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link href='http://fonts.googleapis.com/css?family=Lato:400,900&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+	
+      
+    <style type="text/css">
+* {cursor: url(diamondsword.cur), default; }
+</style>
+
+</head>
+<body>
+
+<div id="nav">
+	<ol>
+	 <li><a href="smierdzi.pl/index.html">Strona główna</a></li>
+	 <li><a href="smierdzi.pl/otworcy.html">O Twórcy i o stronie</a></li>
+	 <li><a href="https://discord.gg/GDtbyusZmC">Discord (działa!!!)</a></li>
+	 <li><a href="#">Gry</a>
+	    <ul>
+		<li><a href="trzewik/index.html">Psychologiczna gra o trzewikodziobie</a></li>
+	    </ul>
+	 </li>
+	</ol>
+	
+	<div style="clear:both;"></div>
+</div>
+
+<p style="font-size:50px; color:red; text-align:center"> O Twórcy i o stronie</p>
+<br>
+<p style="color:white; text-align:center; font-size:20px"> Cześć jestem Hexagon mam 15 lat i interesuję się szeroko pojętą informatyką oraz muzyką. </p>
+
+<br>
+<p style="font-size:50px; color:red; text-align:center" >Trochę o stronie</p>
+<br>
+<br>
+<p style="color:white; font-size:20px"> Stronę tą tworzę dla własnej przyjemności oraz w pewnego rodzaju hobby xd. Nie jestem mistrzem w pisaniu stron jednak warto chociaż próbować :DDD pamięć mam słabą do takich "kodów" i sam nie wiem jak udało mi się zrobić chociaż stronę główną ;))) </p>
+
+</body>
+</html>
